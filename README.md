@@ -1,3 +1,4 @@
+![Infinity Scroll](https://i.imgur.com/WDdHLRa.png)
 This project was bootstrapped with [Vanilla JavaScript](https://github.com/topics/vanilla-javascript).
 
 ## Infinity Scroll Project Overview:
